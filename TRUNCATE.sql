@@ -1,0 +1,7 @@
+-- CLEARING ALL ROWS OF A TABLE 
+
+SELECT * FROM course;
+
+TRUNCATE TABLE course;
+
+SELECT * FROM course;
